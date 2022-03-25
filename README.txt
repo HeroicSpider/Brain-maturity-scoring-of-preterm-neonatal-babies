@@ -128,7 +128,7 @@ IMPORTANT NOTES ABOUT PREPROCESSING
 * The scanner began the EPI pulse sequence a few seconds prior to the start of recording, so there is no need to discard the first few TRs, as is commonly done with fMRI data. 
 
 * EEG wires can create field inhomogeneities that are sometimes visible on the images, particularly on the left posterior region closest to where the wires were bunched together as they exited the coil. Bias field correction can optionally be performed using FSL FAST without the need of a field map.
-
+ 
 
 ————————————————————————————————
 ANATOMICAL MRI DATA
